@@ -6,7 +6,7 @@ Here, you can find information on different Cal Combs related topics as well as 
 
 ### Social Media Links
 
-![Instagram Logo](https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-128.png = 40x40) 
+![Instagram Logo](https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-128.png =40x40) 
 [@yuhentertainment](https://www.instagram.com/yuhentertainment/)
 
 ```markdown
