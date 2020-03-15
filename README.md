@@ -4,9 +4,9 @@ Official Website of the fan-led movement in bringing positivity into fruition.
 
 Here, you can find information on different Cal Combs related topics as well as social media links for both the fanclub and Cal Combs.
 
-### Markdown
+### Social Media Links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Instagram Logo]("https://i.ya-webdesign.com/images/instagram-logo-black-png.png") @yuhentertainment
 
 ```markdown
 Syntax highlighted code block
