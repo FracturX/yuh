@@ -7,7 +7,7 @@ Here, you can find information on different Cal Combs related topics as well as 
 ### Social Media Links
 
 
-<img src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-128.png" width="40" height="40">[@yuhentertainment](https://www.instagram.com/yuhentertainment/)
+<img src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-128.png" width="20" height="20">[@yuhentertainment](https://www.instagram.com/yuhentertainment/)
 
 ```markdown
 Syntax highlighted code block
