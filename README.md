@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/FracturX/yuh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Official Website of the fan-led movement in bringing positivity into fruition.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here, you can find information on different Cal Combs related topics as well as social media links for both the fanclub and Cal Combs.
 
 ### Markdown
 
