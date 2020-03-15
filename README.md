@@ -6,7 +6,7 @@ Here, you can find information on different Cal Combs related topics as well as 
 
 ### Social Media Links
 
-![Instagram Logo]("https://i.ya-webdesign.com/images/instagram-logo-black-png.png") @yuhentertainment
+![Instagram Logo]("2333e78d2da249bde09ec2162cf4f25c.jpg") @yuhentertainment
 
 ```markdown
 Syntax highlighted code block
